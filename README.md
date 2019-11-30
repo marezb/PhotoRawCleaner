@@ -95,13 +95,18 @@ DSC08321.ARW
 DSC08321.JPG
 
 D:\Zdjecia\10180327
+
 Amount of files in folder: 79
+
 Amount of files to be checked for deletion 79
 
 to delete: ['DSC08292.ARW', 'DSC08296.ARW']
 
 we have 2 files to delete - are you sure? "y" or "n" y
+
 DSC08292.ARW has been just removed
+
 DSC08296.ARW has been just removed
+
 
 Process finished with exit code 0
