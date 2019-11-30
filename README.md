@@ -13,6 +13,7 @@ This script finds such files in a given folder and deletes them automatically.
 Example of one usage:
 
 C:\Users\Marek\AppData\Local\Programs\Python\Python37-32\python.exe C:/Users/Marek/Dropbox/Coding/Pycharm/Projects/myprogs/raw_cleaner.py
+
 DSC08282.ARW
 DSC08282.JPG
 DSC08283.ARW
@@ -92,6 +93,7 @@ DSC08320.ARW
 DSC08320.JPG
 DSC08321.ARW
 DSC08321.JPG
+
 D:\Zdjecia\10180327
 Amount of files in folder: 79
 Amount of files to be checked for deletion 79
