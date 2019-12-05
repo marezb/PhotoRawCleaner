@@ -10,9 +10,10 @@ This script finds such files in a given folder and deletes them automatically.
 
 import os
 
-# provide the path to folder with files you want to delete (for \ use
-# escape sign another\)
-os.chdir('E:\\DCIM\\100MSDCF')
+# provide the path to folder with files you want to delete 
+path=r'D:\Zdjecia\10180327'
+os.chdir(path)
+
 
 curdir = os.getcwd()
 files = os.listdir()
